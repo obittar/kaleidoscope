@@ -26,6 +26,9 @@ Read Online:
 * [**Condensed Code**](https://github.com/llvm-hs/llvm-hs-kaleidoscope)
 
 
+# Teams Kanal
+> Bitte nutzt den Teams Kanal
+
 Setup
 -----
 
